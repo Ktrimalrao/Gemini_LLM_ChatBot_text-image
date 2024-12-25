@@ -29,6 +29,7 @@ This repository contains three unique applications that showcase the capabilitie
 ### 1. Text-Based Q&A Application
 - Enter a query and receive instant, accurate answers.
 - Powered by the Gemini LLM for robust text comprehension.
+- ![image alt](https://github.com/Ktrimalrao/Gemini_LLM_ChatBot_text-image/blob/b890179c710cb833f286dfd18cf923f239c96c80/Screenshot%202024-12-25%20211126.png)
 
 ### 2. Image-Based Analysis Application
 - Upload an image (JPG, JPEG, PNG) and get detailed insights.
@@ -38,6 +39,7 @@ This repository contains three unique applications that showcase the capabilitie
 ### 3. Chat History Preservation Application
 - Engage in a conversational experience with the Gemini LLM.
 - Retain and display chat history for user convenience.
+- ![image alt](https://github.com/Ktrimalrao/Gemini_LLM_ChatBot_text-image/blob/b890179c710cb833f286dfd18cf923f239c96c80/Screenshot%202024-12-25%20211148.png)
 
 ---
 
