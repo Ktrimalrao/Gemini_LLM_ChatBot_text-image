@@ -100,5 +100,5 @@ To run the applications locally, follow these steps:
 
 ### Contact
 For questions or feedback, reach out at:
-- Replace `Ktrimalrao` and `trimalrao2004@gmail.com` and `www.linkedin.com/in/k-trimal-rao-397924253`
-- Add any specific branding, images, or details unique to your project.
+-  `Ktrimalrao` and `trimalrao2004@gmail.com` and `www.linkedin.com/in/k-trimal-rao-397924253`
+  
