@@ -14,7 +14,6 @@ Welcome to the **Gemini LLM Applications** repository! This project demonstrates
   - [Chat History Preservation Application](#chat-history-preservation-application)
 - [Technologies Used](#technologies-used)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
@@ -57,6 +56,43 @@ To run the applications locally, follow these steps:
     - streamlit run app_image_based.py  # For Image-Based Analysis
     - streamlit run app_chat_history.py  # For Chat History Preservation
 
+## Usage
+
+### Text-Based Q&A Application
+1. Launch the app.
+2. Enter a question in the text input box.
+3. Click the **"Ask the Question"** button to get an instant response.
+
+### Image-Based Analysis Application
+1. Launch the app.
+2. Upload an image (JPG, JPEG, PNG) using the file uploader.
+3. Optionally, enter a text prompt for additional context.
+4. Click **"Tell about the image"** to generate a response.
+
+### Chat History Preservation Application
+1. Launch the app.
+2. Enter a query in the text input box.
+3. Click **"Ask the question"** to interact with the Gemini LLM.
+4. View the entire chat history displayed at the bottom of the page.
+
+---
+
+## Technologies Used
+- **Python**: Core programming language for development.
+- **Streamlit**: Framework for building web applications.
+- **Google Generative AI**: Gemini LLM API for natural language and image understanding.
+- **Pillow**: Library for image processing.
+- **dotenv**: For managing environment variables securely.
+
+---
+
+## Future Enhancements
+- Support for multiple languages in the text-based Q&A application.
+- Advanced image analysis with multimodal understanding.
+- Options to download chat history in formats like PDF or JSON.
+- User authentication for personalized experiences.
+
+---
 
 
 ### Contact
