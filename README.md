@@ -33,6 +33,7 @@ This repository contains three unique applications that showcase the capabilitie
 ### 2. Image-Based Analysis Application
 - Upload an image (JPG, JPEG, PNG) and get detailed insights.
 - Combines text prompts with image analysis for enhanced responses.
+- ![image alt](https://github.com/Ktrimalrao/Gemini_LLM_ChatBot_text-image/blob/95fe727d7561d2a98966afd1894fa4e702da5038/Screenshot%202024-12-25%20212614.png)
 
 ### 3. Chat History Preservation Application
 - Engage in a conversational experience with the Gemini LLM.
