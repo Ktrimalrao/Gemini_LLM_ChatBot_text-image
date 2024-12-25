@@ -1,0 +1,13 @@
+prefix=D:/Data_Science_Masters/Generative AI Project/End_to_End_LLM_prjt/venv/Library
+exec_prefix=D:/Data_Science_Masters/Generative AI Project/End_to_End_LLM_prjt/venv/Library
+libdir=D:/Data_Science_Masters/Generative AI Project/End_to_End_LLM_prjt/venv/Library/lib
+sharedlibdir=D:/Data_Science_Masters/Generative AI Project/End_to_End_LLM_prjt/venv/Library/lib
+includedir=D:/Data_Science_Masters/Generative AI Project/End_to_End_LLM_prjt/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
